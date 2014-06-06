@@ -1,14 +1,7 @@
-MATT MCNALLY
-
-
-
-
 Elm-Pong
 ========
-Matt
 
+brief modifications to the elm pong example availabe at:
 
-test
+http://elm-lang.org/edit/examples/Intermediate/Pong.elm
 
-
-added new things
